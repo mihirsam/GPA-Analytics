@@ -1,0 +1,14 @@
+To Do:
+
+1. Delete duplicate rows
+2. Fix Subject Code
+3. Include Title in CSV
+4. Fix empty code, title, time or year
+5. Remove code / year from subject title
+
+
+Progress:
+
+1. Working on 'COA' in subjects code
+  -> Done for 2012
+  -> Taking a different approach (02.02.2019)
